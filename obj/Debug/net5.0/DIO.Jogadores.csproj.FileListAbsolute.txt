@@ -1,0 +1,16 @@
+C:\Windows\system32\DIO.Jogadores\bin\Debug\net5.0\DIO.Jogadores.exe
+C:\Windows\system32\DIO.Jogadores\bin\Debug\net5.0\DIO.Jogadores.deps.json
+C:\Windows\system32\DIO.Jogadores\bin\Debug\net5.0\DIO.Jogadores.runtimeconfig.json
+C:\Windows\system32\DIO.Jogadores\bin\Debug\net5.0\DIO.Jogadores.runtimeconfig.dev.json
+C:\Windows\system32\DIO.Jogadores\bin\Debug\net5.0\DIO.Jogadores.dll
+C:\Windows\system32\DIO.Jogadores\bin\Debug\net5.0\ref\DIO.Jogadores.dll
+C:\Windows\system32\DIO.Jogadores\bin\Debug\net5.0\DIO.Jogadores.pdb
+C:\Windows\system32\DIO.Jogadores\obj\Debug\net5.0\DIO.Jogadores.csproj.AssemblyReference.cache
+C:\Windows\system32\DIO.Jogadores\obj\Debug\net5.0\DIO.Jogadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\system32\DIO.Jogadores\obj\Debug\net5.0\DIO.Jogadores.AssemblyInfoInputs.cache
+C:\Windows\system32\DIO.Jogadores\obj\Debug\net5.0\DIO.Jogadores.AssemblyInfo.cs
+C:\Windows\system32\DIO.Jogadores\obj\Debug\net5.0\DIO.Jogadores.csproj.CoreCompileInputs.cache
+C:\Windows\system32\DIO.Jogadores\obj\Debug\net5.0\DIO.Jogadores.dll
+C:\Windows\system32\DIO.Jogadores\obj\Debug\net5.0\ref\DIO.Jogadores.dll
+C:\Windows\system32\DIO.Jogadores\obj\Debug\net5.0\DIO.Jogadores.pdb
+C:\Windows\system32\DIO.Jogadores\obj\Debug\net5.0\DIO.Jogadores.genruntimeconfig.cache
